@@ -1,0 +1,4 @@
+
+    - id: "douyin"
+      name: "抖音"
+      refresh_interval: 300
